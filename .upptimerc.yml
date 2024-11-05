@@ -3,14 +3,14 @@ owner: sewanee-raval # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: Main Sewanee Site
     url: https://new.sewanee.edu
   - name: Library Website
     url: https://library.sewanee.edu
+  - name: School of Letters
+    url: https://letters.sewanee.edu/
+  - name: School of Theology
+    url: https://theology.sewanee.edu/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -18,8 +18,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page
+  introTitle: "Sewanee Main Websites"
+  introMessage: This is an external status page for Sewanee Websites
   navbar:
     - title: Status
       href: /
