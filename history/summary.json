@@ -4,9 +4,9 @@
     "url": "https://new.sewanee.edu",
     "icon": "https://icons.duckduckgo.com/ip3/new.sewanee.edu.ico",
     "slug": "main-sewanee-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 358,
     "timeMonth": 458,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-14": 0
+    }
   },
   {
     "name": "Library Website",
