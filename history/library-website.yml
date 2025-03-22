@@ -1,7 +1,7 @@
 url: https://library.sewanee.edu
-status: down
-code: 500
-responseTime: 465
-lastUpdated: 2025-03-22T16:58:43.550Z
+status: up
+code: 200
+responseTime: 1054
+lastUpdated: 2025-03-22T17:11:48.140Z
 startTime: 2024-11-05T15:15:25.282Z
 generator: Upptime <https://github.com/upptime/upptime>
