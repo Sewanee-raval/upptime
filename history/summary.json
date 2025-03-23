@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 963,
-    "timeWeek": 626,
-    "timeMonth": 518,
-    "timeYear": 614,
+    "time": 612,
+    "timeDay": 430,
+    "timeWeek": 604,
+    "timeMonth": 498,
+    "timeYear": 612,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.sewanee.edu.ico",
     "slug": "library-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 607,
-    "timeDay": 812,
-    "timeWeek": 698,
-    "timeMonth": 649,
-    "timeYear": 607,
-    "dailyMinutesDown": {
-      "2025-03-22": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 606,
+    "timeDay": 671,
+    "timeWeek": 694,
+    "timeMonth": 635,
+    "timeYear": 606,
+    "dailyMinutesDown": {}
   },
   {
     "name": "School of Letters",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 621,
-    "timeWeek": 400,
-    "timeMonth": 386,
-    "timeYear": 390,
+    "time": 389,
+    "timeDay": 310,
+    "timeWeek": 389,
+    "timeMonth": 375,
+    "timeYear": 389,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 468,
-    "timeDay": 622,
-    "timeWeek": 427,
-    "timeMonth": 541,
-    "timeYear": 468,
+    "time": 467,
+    "timeDay": 377,
+    "timeWeek": 428,
+    "timeMonth": 533,
+    "timeYear": 467,
     "dailyMinutesDown": {}
   }
 ]
