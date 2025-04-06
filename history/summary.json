@@ -22,11 +22,11 @@
     "url": "https://library.sewanee.edu",
     "icon": "https://icons.duckduckgo.com/ip3/library.sewanee.edu.ico",
     "slug": "library-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 599,
     "timeDay": 498,
@@ -34,7 +34,7 @@
     "timeMonth": 598,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2025-04-06": 6
+      "2025-04-06": 0
     }
   },
   {
