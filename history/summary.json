@@ -24,14 +24,14 @@
     "slug": "library-website",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "98.89%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 602,
-    "timeDay": 508,
-    "timeWeek": 637,
-    "timeMonth": 614,
+    "timeDay": 507,
+    "timeWeek": 624,
+    "timeMonth": 611,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2025-04-10": 16
