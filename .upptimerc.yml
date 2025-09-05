@@ -7,10 +7,14 @@ sites:
     url: https://new.sewanee.edu
   - name: Library Website
     url: https://library.sewanee.edu
-  - name: School of Letters
+  - name: School of Letters Website
     url: https://letters.sewanee.edu/
-  - name: School of Theology
+  - name: School of Theology Website
     url: https://theology.sewanee.edu/
+  - name: University Registrar Website
+    url: https://registrar.sewanee.edu/
+  - name: University Office of Institutional Research and Analysis
+    url: https://irtree.sewanee.edu
 assignees:
   - Sewanee-raval
 status-website:
