@@ -13,8 +13,6 @@ sites:
     url: https://theology.sewanee.edu/
   - name: University Registrar Website
     url: https://registrar.sewanee.edu/
-  - name: University Office of Institutional Research and Analysis
-    url: https://irtree.sewanee.edu
 assignees:
   - Sewanee-raval
 status-website:
