@@ -4,10 +4,10 @@
     "url": "https://new.sewanee.edu",
     "icon": "https://icons.duckduckgo.com/ip3/new.sewanee.edu.ico",
     "slug": "main-sewanee-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 601,
@@ -15,7 +15,9 @@
     "timeWeek": 583,
     "timeMonth": 615,
     "timeYear": 601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-01": 2
+    }
   },
   {
     "name": "Library Website",
@@ -53,10 +55,10 @@
     "url": "https://letters.sewanee.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/letters.sewanee.edu.ico",
     "slug": "school-of-letters-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 499,
@@ -64,17 +66,19 @@
     "timeWeek": 396,
     "timeMonth": 551,
     "timeYear": 499,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-01": 1
+    }
   },
   {
     "name": "School of Theology Website",
     "url": "https://theology.sewanee.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/theology.sewanee.edu.ico",
     "slug": "school-of-theology-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 514,
@@ -82,16 +86,18 @@
     "timeWeek": 921,
     "timeMonth": 550,
     "timeYear": 514,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-01": 1
+    }
   },
   {
     "name": "University Registrar Website",
     "url": "https://registrar.sewanee.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/registrar.sewanee.edu.ico",
     "slug": "university-registrar-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -100,6 +106,8 @@
     "timeWeek": 474,
     "timeMonth": 1121,
     "timeYear": 846,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-01": 0
+    }
   }
 ]
