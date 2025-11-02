@@ -4,20 +4,18 @@
     "url": "https://new.sewanee.edu",
     "icon": "https://icons.duckduckgo.com/ip3/new.sewanee.edu.ico",
     "slug": "main-sewanee-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 601,
-    "timeDay": 824,
-    "timeWeek": 583,
-    "timeMonth": 615,
+    "timeDay": 459,
+    "timeWeek": 577,
+    "timeMonth": 601,
     "timeYear": 601,
-    "dailyMinutesDown": {
-      "2025-11-01": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Library Website",
@@ -28,13 +26,13 @@
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.16%",
+    "uptimeMonth": "99.18%",
     "uptimeYear": "99.88%",
-    "time": 775,
-    "timeDay": 1050,
-    "timeWeek": 715,
-    "timeMonth": 782,
-    "timeYear": 775,
+    "time": 798,
+    "timeDay": 10626,
+    "timeWeek": 2174,
+    "timeMonth": 920,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2025-10-22": 25,
       "2025-10-16": 16,
@@ -56,19 +54,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/letters.sewanee.edu.ico",
     "slug": "school-of-letters-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 496,
-    "timeDay": 446,
-    "timeWeek": 389,
-    "timeMonth": 544,
-    "timeYear": 496,
-    "dailyMinutesDown": {
-      "2025-11-01": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 497,
+    "timeDay": 451,
+    "timeWeek": 412,
+    "timeMonth": 545,
+    "timeYear": 497,
+    "dailyMinutesDown": {}
   },
   {
     "name": "School of Theology Website",
@@ -76,19 +72,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/theology.sewanee.edu.ico",
     "slug": "school-of-theology-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 511,
-    "timeDay": 499,
-    "timeWeek": 846,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 520,
+    "timeDay": 692,
+    "timeWeek": 943,
     "timeMonth": 543,
-    "timeYear": 511,
-    "dailyMinutesDown": {
-      "2025-11-01": 4
-    }
+    "timeYear": 520,
+    "dailyMinutesDown": {}
   },
   {
     "name": "University Registrar Website",
@@ -97,17 +91,15 @@
     "slug": "university-registrar-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 840,
-    "timeDay": 566,
-    "timeWeek": 477,
-    "timeMonth": 1102,
-    "timeYear": 840,
-    "dailyMinutesDown": {
-      "2025-11-01": 4
-    }
+    "time": 838,
+    "timeDay": 609,
+    "timeWeek": 493,
+    "timeMonth": 992,
+    "timeYear": 838,
+    "dailyMinutesDown": {}
   }
 ]
